@@ -1,0 +1,100 @@
+.auth__formm input[type='file']{
+color: black;
+cursor: pointer;
+}
+
+.note__item{
+padding: 5px;
+font-size: 1.3rem;
+font-weight: 500;
+background-color: #f4c2c2;;
+padding: 30px;
+border-radius: 30px;
+    
+}
+
+.note__title{
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    border: #de81a6 solid 3px;
+}
+
+.note__category{
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    border: #de81a6 solid 3px;
+}
+
+.category{
+    margin-bottom: 20px;
+    
+}
+
+.shortDesc{
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    border: #de81a6 solid 3px;
+}
+
+.longDesc{
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    border: #de81a6 solid 3px;
+}
+
+.note__pricee{
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    border: #de81a6 solid 3px;
+
+}
+
+.checkbox{
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    border: #de81a6 solid 3px;
+}
+.checkbox__title{
+    text-align: center;
+    height: 70px;
+    width: 100%;
+}
+
+.auth__formm{
+    text-align: center;
+    margin-left: 180px;
+    
+    
+}
+
+.yukle__btn{
+    height: 80px;
+    text-align: center;
+    border-radius: 10px;
+    border: #de81a6 solid 3px;
+    outline: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 30px;
+    float:right ;
+    margin-top: -60px;
+
+}
+
+.img__title{
+    text-align: center;
+    margin-bottom: 15px;
+}

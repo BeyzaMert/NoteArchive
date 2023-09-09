@@ -1,0 +1,32 @@
+/* .table tr td img {
+    width: 80% !important;
+    height: 80px !important;
+    object-fit: cover;
+
+} */
+
+td i{
+    cursor: pointer;
+}
+
+td, 
+th {
+    color: var(--primary-color);
+}
+
+.img{
+    width: 380px !important;
+    height: 180px !important;
+    object-fit: contain;
+}
+
+.buy__btnn{
+    border: none;
+    outline: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    background-color: var(--primary-color);
+    color: #fff;
+    cursor: pointer;
+    font-size: 1rem;
+}
